@@ -99,6 +99,6 @@ print(yeni_görev_yönetici.görevleri_görüntüle())
 2. Run the Python files directly:
    ```bash
    python shopping_cart.py
-   python todo_list.py
+   python ToDo_list.py
    ```
 
