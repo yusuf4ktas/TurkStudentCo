@@ -1,0 +1,3 @@
+Soap,Personal Care,15,5
+Bread,Food,10,80
+Headphone,Music,50,4
